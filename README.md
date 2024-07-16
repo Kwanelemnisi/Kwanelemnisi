@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kwanelemnisi
 - 👀 I’m interested in Data Science and Finance
 - 🌱 I currently hold a BCom Investmant Management degree and BCom Honours in Statistics and Data Science degree
-- 😄 Pronouns: Miss
+- 😄 Pronouns: She/Her
 
 <!---
 Kwanelemnisi/Kwanelemnisi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
