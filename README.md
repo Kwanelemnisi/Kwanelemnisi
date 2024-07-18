@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @Kwanelemnisi
+- 😄 Beginner in coding 
 - 👀 I’m interested in Data Science and Finance
 - 🌱 I currently hold a BCom Investmant Management degree and BCom Honours in Statistics and Data Science degree
 - 😄 Pronouns: She/Her
